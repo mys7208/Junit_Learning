@@ -13,7 +13,7 @@ import org.junit.jupiter.api.Test;
 class CalculatorTest {
 
     /**
-     * 加算処理のテスト
+     * 加算処理
      */
     @Test
     void testAdd() {
@@ -24,7 +24,7 @@ class CalculatorTest {
     }
 
     /**
-     * 減算処理のテスト
+     * 減算処理
      */
     @Test
     void testSubtract() {
