@@ -7,22 +7,22 @@ public class Calculator {
 	
     /**
      * 加算処理
-     * @param a
-     * @param b
+     * @param value1
+     * @param value2
      * @return 加算結果
      */
-    public int add(int a, int b) {
-        return a + b;
+    public int add(int value1, int value2) {
+        return value1 + value2;
     }
     
     /**
      * 減算処理
-     * @param a
-     * @param b
+     * @param value1
+     * @param value2
      * @return　減算結果
      */
-    public int subtract(int a, int b) {
-        return a - b;
+    public int subtract(int value1, int value2) {
+        return value1 - value2;
     }
     
 }
