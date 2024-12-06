@@ -13,7 +13,7 @@ import org.junit.jupiter.api.Test;
 class CalculatorTest {
 
     /**
-     * 加算処理
+     * 加算処理テスト
      */
     @Test
     void testAdd() {
