@@ -25,4 +25,13 @@ public class Calculator {
         return value1 - value2;
     }
     
+    /**
+     * 掛け算処理
+     * @param value1
+     * @param value2
+     * @return 掛け算結果
+     */
+    public int multiply(int value1, int value2) {
+    	return value1 * value2;
+    }
 }
