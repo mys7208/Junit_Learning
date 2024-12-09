@@ -40,4 +40,14 @@ class CalculatorTest {
         
     }
 
+    @Test
+    void testMultiply() {
+    	
+    	// Calculatorを生成
+    	Calculator calc = new Calculator();
+    	
+    	//　乗算処理(multiply)を実行して乗算結果を比較
+    	assertEquals(6, calc.multiply(2, 3)); // 期待値と実際の値を比較
+    	
+    }
 }
