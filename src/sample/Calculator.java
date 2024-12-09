@@ -26,10 +26,10 @@ public class Calculator {
     }
     
     /**
-     * 掛け算処理
+     * 乗算処理
      * @param value1
      * @param value2
-     * @return 掛け算結果
+     * @return 乗算結果
      */
     public int multiply(int value1, int value2) {
     	return value1 * value2;
