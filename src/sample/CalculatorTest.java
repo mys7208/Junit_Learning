@@ -41,7 +41,7 @@ class CalculatorTest {
     }
 
     /**
-     * 乗算処理２
+     * 乗算処理３
      */
     @Test
     void testMultiply() {
